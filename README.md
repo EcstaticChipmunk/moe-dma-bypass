@@ -1,4 +1,4 @@
-# MOE DMA Bypass
+# PLD BYPASS/MOE DMA Bypass
 TLDR: Steps to bypass MOE Device Management on Personal Learning Devices (PLDs) through reinstalling windows with local account before connecting to school account **[Updated 28 Jan. 2025]**
 
 ## Prerequisites
